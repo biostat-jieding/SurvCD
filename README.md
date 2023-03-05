@@ -9,7 +9,7 @@ An R package for fitting Cox proportional hazards model with dynamic covariate e
   
 ## The corresponding example using simulated dataset is shown below:
 
-- *An example for fitting the online Cox proportional hazards model (Heterogeneity exist)*
+- *An example for fitting the online Cox proportional hazards model (Heterogeneity exists)*
 ```R
 ## ---- basic setup of the simulated dataset ---- ##
 pbet <- 3
