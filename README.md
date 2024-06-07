@@ -1,6 +1,6 @@
 # TransHS (*originally named StreamPHDE*)
 An R package for fitting Cox proportional hazards model with dynamic covariate effects in the heterogeneous streaming data environment.
-We note here the original name of this package was *StreamPHDE*  (see also https://github.com/Stat-WangXG/StreamPHDE) as was originally mentioned in the paper titled "*Renewable risk assessment of heterogeneous streaming time-to-event cohorts*", which has been accepted by *Statistics in Medicine*.
+We note here the original name of this package was *StreamPHDE*  (see also the github website of Stat-WangXG) as was originally mentioned in the paper titled "*Renewable risk assessment of heterogeneous streaming time-to-event cohorts*", which has been accepted by *Statistics in Medicine*.
 Now its name is *TransHS*, which emphasize that it can play a role in **Trans**ferring **H**eterogeneous **S**treams in survival targets as well.
 
 ## Two main R function are included (with different scenarios for application):
